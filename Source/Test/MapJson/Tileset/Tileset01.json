@@ -1,0 +1,41 @@
+{
+  "columns": 4,
+  "image": "../Imgs/Tileset01.png",
+  "imageheight": 256,
+  "imagewidth": 256,
+  "margin": 0,
+  "name": "Tileset01",
+  "spacing": 0,
+  "tilecount": 32,
+  "tileheight": 32,
+  "tileproperties": {
+    "21": {
+      "key1": "value1",
+      "key2": "15",
+      "key3": 8.9,
+      "key4": true
+    },
+    "22": {
+      "key1": "value2",
+      "key2": "25",
+      "key3": 28.9,
+      "key4": false
+    }
+  },
+  "tilepropertytypes": {
+    "21": {
+      "key1": "string",
+      "key2": "string",
+      "key3": "float",
+      "key4": "bool"
+    },
+    "22": {
+      "key1": "string",
+      "key2": "string",
+      "key3": "float",
+      "key4": "bool"
+    }
+  },
+  "tilewidth": 64,
+  "type": "tileset"
+}

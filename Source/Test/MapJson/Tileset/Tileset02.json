@@ -1,0 +1,26 @@
+{ "columns":5,
+ "image":"..\/Imgs\/Tileset02.png",
+ "imageheight":192,
+ "imagewidth":320,
+ "margin":0,
+ "name":"Tileset02",
+ "spacing":0,
+ "tilecount":30,
+ "tileheight":32,
+ "tileproperties":
+    {
+     "0":
+        {
+         "name":"GRoad_1"
+        }
+    },
+ "tilepropertytypes":
+    {
+     "0":
+        {
+         "name":"string"
+        }
+    },
+ "tilewidth":64,
+ "type":"tileset"
+}

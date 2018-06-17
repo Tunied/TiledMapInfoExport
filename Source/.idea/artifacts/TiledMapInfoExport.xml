@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TiledMapInfoExport">
+    <output-path>$PROJECT_DIR$/out/artifacts/TiledMapInfoExport</output-path>
+    <root id="archive" name="TiledMapInfoExport.jar">
+      <element id="module-output" name="TiledMapInfoExport" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gson-2.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/dom4j-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
